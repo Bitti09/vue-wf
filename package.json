@@ -37,7 +37,7 @@
     "vue-select": "^3.10.8",
     "vue-slick-carousel": "^1.0.6",
     "vue-warehouse": "^2.2.0",
-    "vueperslides": "^2.10.8"
+    "vueperslides": "^3.3.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.1.0",
